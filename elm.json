@@ -1,7 +1,7 @@
 {
     "type": "package",
-    "name": "elm/terminal",
-    "summary": "Terminal utilities for Elm",
+    "name": "hezhenxing/elm-terminal",
+    "summary": "Testing stuff for Elm",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
     "exposed-modules": [
